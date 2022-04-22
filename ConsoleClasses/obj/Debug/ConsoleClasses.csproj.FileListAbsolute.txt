@@ -1,0 +1,8 @@
+C:\Users\lange\Downloads\ingenieria-de-software\ConsoleClasses\ConsoleClasses\bin\Debug\ConsoleClasses.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\ConsoleClasses\ConsoleClasses\bin\Debug\ConsoleClasses.exe
+C:\Users\lange\Downloads\ingenieria-de-software\ConsoleClasses\ConsoleClasses\bin\Debug\ConsoleClasses.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\ConsoleClasses\ConsoleClasses\obj\Debug\ConsoleClasses.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\ConsoleClasses\ConsoleClasses\obj\Debug\ConsoleClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\ConsoleClasses\ConsoleClasses\obj\Debug\ConsoleClasses.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\ConsoleClasses\ConsoleClasses\obj\Debug\ConsoleClasses.exe
+C:\Users\lange\Downloads\ingenieria-de-software\ConsoleClasses\ConsoleClasses\obj\Debug\ConsoleClasses.pdb
